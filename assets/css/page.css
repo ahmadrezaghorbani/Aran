@@ -1,0 +1,11 @@
+header{
+    background: #d1d1e4;
+}
+.title {
+    background: #c2cfdb70;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    height: 211px;
+    top:0;
+}
